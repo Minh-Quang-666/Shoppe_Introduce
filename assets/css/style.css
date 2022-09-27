@@ -455,7 +455,7 @@ img {
     padding-top: 70px;
     width: 100%;
     height: 624px;
-    background: url(/assets/img/about_values_pc.f6966b8d.png) 50% no-repeat;
+    background: url("/assets/img/about_values_pc.f6966b8d.png") 50% no-repeat;
     background-size: cover;
     color: #fff;
     font-weight: 700;
